@@ -10,6 +10,7 @@ Project: Maven based project.
 ## 🛠 Skills
 ------------
 Core Java
+MY SQL
 
 OverView of the project:
 -----------------------
