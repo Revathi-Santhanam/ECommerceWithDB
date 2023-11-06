@@ -1,5 +1,5 @@
 
-# E-COMMERCE APPLICATION USING JAVA
+# E-COMMERCE APPLICATION USING JAVA AND My SQL
 
 This project is developed using JAVA V-17.0.8 and My SQL.
 
